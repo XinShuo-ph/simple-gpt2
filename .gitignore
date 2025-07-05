@@ -90,8 +90,10 @@ data/
 datasets/
 *.json
 *.jsonl
-*.txt
 *.csv
+
+# Allow requirements.txt
+!requirements.txt
 
 # Logs
 logs/
